@@ -5,3 +5,4 @@ rembg
 numpy
 python-dotenv
 onnxruntime
+flask-compress
