@@ -6,3 +6,4 @@ numpy
 python-dotenv
 onnxruntime
 flask-compress
+gunicorn
