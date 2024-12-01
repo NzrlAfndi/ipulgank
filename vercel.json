@@ -6,11 +6,5 @@
     "routes": [
       { "src": "/(.*)", "dest": "app.py" }
     ],
-    "functions": {
-        "api/*": {
-          "maxDuration": 10,
-          "memory": 1024
-        }
-    }
   }
   
