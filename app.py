@@ -123,4 +123,4 @@ def compress_photo():
     return send_file(compressed_path, mimetype='image/png')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0", debug=True)
